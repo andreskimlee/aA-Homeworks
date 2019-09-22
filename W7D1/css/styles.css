@@ -1,0 +1,34 @@
+img {
+    height: 5%; 
+    width: 5%; 
+}
+
+section {
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 10px solid black; 
+}
+
+.links {
+    justify-content: center;
+    
+}
+a {
+    flex-direction: row;
+
+    margin: 50px; 
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    padding: 10px; 
+    margin: 10px; 
+}
+
+  
+
+li { 
+    flex-direction: column; 
+}
+
